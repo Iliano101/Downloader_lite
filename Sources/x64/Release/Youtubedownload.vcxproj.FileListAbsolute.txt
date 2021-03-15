@@ -1,0 +1,6 @@
+C:\Users\proprietaire\Google Drive\Devloppement\Programmation\C++\Youtubedownload\Sources\x64\Release\Youtubedownload.vcxprojAssemblyReference.cache
+C:\Users\proprietaire\Google Drive\Devloppement\Programmation\C++\Youtubedownload\Sources\x64\Release\Youtubedownload.YdGui.resources
+C:\Users\proprietaire\Google Drive\Devloppement\Programmation\C++\Youtubedownload\Sources\x64\Release\Youtubedownload.vcxproj.GenerateResource.cache
+C:\Users\ilian\Google Drive\Devloppement\Programmation\C++\Youtubedownload\Sources\x64\Release\Youtubedownload.vcxprojAssemblyReference.cache
+C:\Users\ilian\Google Drive\Devloppement\Programmation\C++\Youtubedownload\Sources\x64\Release\Youtubedownload.YdGui.resources
+C:\Users\ilian\Google Drive\Devloppement\Programmation\C++\Youtubedownload\Sources\x64\Release\Youtubedownload.vcxproj.GenerateResource.cache
